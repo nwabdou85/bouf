@@ -1,0 +1,146 @@
+/* CSS declarations go here */
+#modal-944183{
+	
+	margin-bottom: 5em;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+#footer{
+	background-color: #333;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-right: -15px;
+	margin-left: -15px;
+	text-align: center;
+}
+#footer h3{
+	color: white;
+}
+#img{
+	background-image: url('/img/food-yoghurt.jpg');
+	background-size: cover;
+	color: black;
+	padding-bottom: 12em;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-right: -15px;
+	margin-left: -15px;
+	text-align: center;
+}
+
+#img h1 {
+   font-weight: 900; 
+   color: white;
+   text-shadow: 1px 1px 1px rgba(100, 100, 100, 1);
+}
+#img h5 {
+   font-weight: 900; 
+   color: white;
+   font-weight: bold;
+   text-shadow: 1px 1px 1px rgba(100, 100, 100, 1);
+}
+#img h4{
+
+	font-weight: bold;
+}
+
+#platgratuit:hover{
+    
+    color: #fff;
+text-shadow: 0 -1px 0 rgba(0,0,0,0.2);
+background-color: #c81330;
+}
+#platgratuit{
+	border-color: #900 #800 #800;
+    background-color: #AA0D27;
+    color: #fff;
+}
+
+#logo{
+	margin-top: 6em;
+	border-radius: 10%;
+	border-style: ridge;
+	border-color: white;
+	border-width: 5px;
+	padding: 20px;
+	height: 8em; 
+	-webkit-box-shadow: 0px 0px 24px 3px rgba(0,0,0,0.72);
+	-moz-box-shadow: 0px 0px 24px 3px rgba(0,0,0,0.72);
+	box-shadow: 0px 0px 24px 3px rgba(0,0,0,0.72);
+}
+
+#marche{
+	background-color: rgba(0,0,0,0.3);
+	color: black;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-right: -15px;
+	margin-left: -15px;
+	padding-bottom: 3em;
+	text-align: center;
+}
+#cuisine{
+	padding: 20px;
+}
+#cuisine img {
+
+	/*height: 18em;*/
+}
+
+figure {
+	position: relative;
+}
+figcaption{
+	position: absolute;
+	bottom: 10%;
+	left: 5%;
+	padding: 10px;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: rgba(0,0,0,0.7);
+
+}
+
+
+.modal-body{
+	text-align: left;
+}
+
+	#mc_embed_signup{background: rgba(225,225,225,0); color: #000; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+#mc_embed_signup .button{
+	background: #20c05c;
+    color: white;
+    border: 1px solid #1fbc59;
+}
+
+#mc_embed_signup input {
+border: 1px solid #334088;
+-webkit-appearance: none;
+}
+
+
+input{
+	border-radius: 5px;
+}
+blockquote{
+	font-size: 13px;
+	background: #f8f7fc;
+	border-radius: 4px;
+	box-shadow: inset 0 1px #fff,0 1px 8px #bdb7d2;
+	border-left:none;
+}
+.navbar  {
+	width: 100%;
+}
+
+@media (max-width: 769px) { 
+
+#img h4{
+	font-size: 10px;
+}
+
+
+}
